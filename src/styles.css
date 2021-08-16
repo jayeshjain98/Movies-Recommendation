@@ -1,10 +1,18 @@
 .App {
-  max-width: 600px;
+  max-width: 400px;
   margin: auto;
   padding: 2rem;
+  background-color: #fdba74;
 }
 
 body {
   font-family: "Lato", sans-serif;
-  background-color: #efefef;
+  background-color: #fb923c;
+}
+
+#heading-text {
+  width: 100%;
+  text-align: center;
+  border-radius: 2rem;
+  color: #ffedd5;
 }
